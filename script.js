@@ -1,5 +1,5 @@
 console.log("Stopwatch")
-//first commit
+
 let seconds = 00;
 let tens = 00;
 let minutes = 00;
